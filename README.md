@@ -1,8 +1,8 @@
 # 🤴🏻 Arthur-Merlin-Games 🧙🏻‍♂️
 
-### 👨🏽‍🏫 Professor Orientador: [Fernando Masanori](https://github.com/fmasanori)
+## 👨🏽‍🏫 Professor Orientador: [Fernando Masanori](https://github.com/fmasanori)
 
-## Enunciado
+## 📋 Enunciado
 
 Na corte do Rei Arthur há quatro damas e sete cavaleiros. Existem outros cavaleiros e damas, porém estarão fora do reino durante um bom tempo. O Rei Arthur possui dois sérios problemas:
 
@@ -12,22 +12,25 @@ Na corte do Rei Arthur há quatro damas e sete cavaleiros. Existem outros cavale
 
 O Mago Merlin foi incumbido destas duas tarefas e irá contar com ajuda dos alunos da FATEC-SJC. Entre seus vários poderes mágicos ele possui dois algoritmos prontos, no arquivo merlin.py, que geram todas as enumerações e permutações, respectivamente, para um dado número inteiro n positivo. Você deverá fazer um programa em Python, utilizando os algoritmos do Mago Merlin que resolva os dois problemas do Rei Arthur.
 
-**Entradas:** arquivos _casamento.txt_ e _casamento no.txt_ com as preferências de cada dama e arquivos _cavaleiros.txt_ e _cavaleiros no.txt_ com os amigos de cada cavaleiro. Suponha sempre que a amizade é recíproca, neste caso se um cavaleiro disser que outro é amigo, o outro dirá o mesmo dele.
+📥 **Entradas:** 
 
-**Saídas:**
+Arquivos _casamento.txt_ e _casamento no.txt_ com as preferências de cada dama e arquivos _cavaleiros.txt_ e _cavaleiros no.txt_ com os amigos de cada cavaleiro. Suponha sempre que a amizade é recíproca, neste caso se um cavaleiro disser que outro é amigo, o outro dirá o mesmo dele.
+
+📤 **Saídas:**
 
 **1.** Responder se é possível casar todas as damas. O aluno não precisa mostrar uma possível combinação de casamentos, sendo opcional essa parte. Porém, se não for possível casar todas as damas, deverá ser apresentada uma situação impeditiva.
 
 **2.** Mostrar uma disposição dos cavaleiros em torno da Távola Redonda em que eles não bringuem ou dizer que isso é impossível.
 
-*Damas:* 
+
+👩🏻*Damas:* 
 
       * Jessica;
       * Fernanda;
       * Pamela;
       * Renata.
 
-*Cavaleiros:*
+👦🏻*Cavaleiros:*
 
       * Adriano;
       * Bruno;
@@ -37,7 +40,10 @@ O Mago Merlin foi incumbido destas duas tarefas e irá contar com ajuda dos alun
       * Leandro;
       * Walber.
       
-**casamento.txt**
+      
+## 📄 Arquivos:
+
+💒 **casamento.txt**
 
 *Jessica Adriano*
 
@@ -48,7 +54,7 @@ O Mago Merlin foi incumbido destas duas tarefas e irá contar com ajuda dos alun
 *Renata Adriano Walber*
 
 
-**cavaleiros.txt**
+👨‍👦‍👦 **cavaleiros.txt**
 
 *Adriano Bruno Gabriel Leandro Walber*
 
@@ -72,7 +78,9 @@ O Mago Merlin foi incumbido destas duas tarefas e irá contar com ajuda dos alun
 
 [Cavaleiros]
 
-**casamento no.txt**
+
+
+💒 **casamento no.txt**
 
 *Jessica Eclis*
 
@@ -82,7 +90,7 @@ O Mago Merlin foi incumbido destas duas tarefas e irá contar com ajuda dos alun
 
 *Renata Eclis*
 
-**cavaleiros no.txt**
+👨‍👦‍👦 **cavaleiros no.txt**
 
 *Adriano Bruno Leandro*
 
