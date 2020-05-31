@@ -45,66 +45,66 @@ Arquivos _casamento.txt_ e _casamento no.txt_ com as preferências de cada dama 
 
 💒 **casamento.txt**
 
-*Jessica Adriano*
-
-*Fernanda Bruno Gabriel Leandro*
-
-*Pamela Adriano Diogo Leandro*
-
-*Renata Adriano Walber*
+>*Jessica Adriano*
+>
+>*Fernanda Bruno Gabriel Leandro*
+>
+>*Pamela Adriano Diogo Leandro*
+>
+>*Renata Adriano Walber*
 
 
 👨‍👦‍👦 **cavaleiros.txt**
 
-*Adriano Bruno Gabriel Leandro Walber*
-
-*Bruno Adriano Eclis*
-
-*Diogo Eclis Gabriel*
-
-*Eclis Bruno Diogo*
-
-*Gabriel Adriano Diogo Walber*
-
-*Leandro Adriano Bruno Walber*
-
-*Walber Adriano Gabriel Leandro*
+>*Adriano Bruno Gabriel Leandro Walber*
+>
+>*Bruno Adriano Eclis*
+>
+>*Diogo Eclis Gabriel*
+>
+>*Eclis Bruno Diogo*
+>
+>*Gabriel Adriano Diogo Walber*
+>
+>*Leandro Adriano Bruno Walber*
+>
+>*Walber Adriano Gabriel Leandro*
 
 **Possível Saída:** Casamento possível e mesa Adriano-Bruno-Eclis-Diogo-Gabriel-Walber-Leando-Adriano
 
 **Opcional:** Jessica-Adriano Fernanda-Bruno Pamela-Diogo Renata-Walber
 
-[Casamento]
+![Casamento](https://github.com/JenniferDominique/Arthur-Merlin-Games/blob/master/Imagens%20Enunciado/Possivel%20saida%20-%20Casamento.png)
 
-[Cavaleiros]
+![Cavaleiros](https://github.com/JenniferDominique/Arthur-Merlin-Games/blob/master/Imagens%20Enunciado/Possivel%20saida%20-%20Cavaleiros.png)
 
-
+-----
 
 💒 **casamento no.txt**
 
-*Jessica Eclis*
-
-*Fernanda Eclis*
-
-*Pamela*
-
-*Renata Eclis*
+>*Jessica Eclis*
+>
+>*Fernanda Eclis*
+>
+>*Pamela*
+>
+>*Renata Eclis*
 
 👨‍👦‍👦 **cavaleiros no.txt**
 
-*Adriano Bruno Leandro*
-
-*Bruno Adriano Gabriel*
-
-*Diogo Eclis Walber*
-
-*Eclis Diogo Walber*
-
-*Gabriel Bruno Leandro*
-
-*Leandro Adriano Walber*
-
-*Walber Diogo Eclis Leandro*
+>*Adriano Bruno Leandro*
+>
+>*Bruno Adriano Gabriel*
+>
+>*Diogo Eclis Walber*
+>
+>*Eclis Diogo Walber*
+>
+>*Gabriel Bruno Leandro*
+>
+>*Leandro Adriano Walber*
+>
+>*Walber Diogo Eclis Leandro*
 
 **Possível Saída:** Preferências de Jessica-Fernanda-Renata insuficientes e não é possível arrumar a mesa.
 
@@ -112,8 +112,8 @@ OU
 
 Preferências de Pâmela são insuficientes e não é possível arrumar a mesa.
 
-[Casamento no]
+![Casamento no](https://github.com/JenniferDominique/Arthur-Merlin-Games/blob/master/Imagens%20Enunciado/Possivel%20saida%20-%20Casamento%20no.png)
 
 Não é possível arrumar a mesa para os sete cavaleiros.
 
-[Cavaleiros no]
+![Cavaleiros no](https://github.com/JenniferDominique/Arthur-Merlin-Games/blob/master/Imagens%20Enunciado/Possivel%20saida%20-%20Cavaleiros%20no.png)
